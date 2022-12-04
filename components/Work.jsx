@@ -33,7 +33,7 @@ export default function Work() {
                 <Button variant='filled'>SOURCE CODE</Button>
               </a>
               <a
-                href='https://project-e--thanhdat-vu.vercel.app/'
+                href='https://headphones-z.vercel.app/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
@@ -120,7 +120,7 @@ export default function Work() {
                 <Button variant='filled'>SOURCE CODE</Button>
               </a>
               <a
-                href='https://wda-01-cozi-client.vercel.app/'
+                href='https://wda01-cozi-client.vercel.app/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
